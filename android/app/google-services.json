@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634702582570",
+    "project_id": "pokercardapp-f7c39",
+    "storage_bucket": "pokercardapp-f7c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634702582570:android:8fda85b8833980517a0453",
+        "android_client_info": {
+          "package_name": "com.poker.cardapp.spn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634702582570-0mk9ph37plmid0tibh0m0trccmb602g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4Hm-nxnlBdlzDZuTt3m0pYCArvLrVfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634702582570-0mk9ph37plmid0tibh0m0trccmb602g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

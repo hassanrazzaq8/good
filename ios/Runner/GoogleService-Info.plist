@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352027274262-vpmjbqjh6j5vjcnj9cne5j0fkocvcm93.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352027274262-vpmjbqjh6j5vjcnj9cne5j0fkocvcm93</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352027274262-8ithn3t5vf36neh0mf2muoha655u3b5u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDiZUBFs0c2isArlbw43dU1jSMVO3Y9oII</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352027274262</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dreeamcard.cardApp</string>
+	<key>PROJECT_ID</key>
+	<string>cardapp-8e922</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardapp-8e922.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352027274262:ios:62c568f1f0702fa9fd9937</string>
+</dict>
+</plist>
